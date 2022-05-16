@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "time": 5,
+      "title": "Please select 1",
+      "multi_A": "1",
+      "multi_B": "2",
+      "multi_C": "3",
+      "multi_D": "4",
+      "multi_ans": "A"
+    },
+    {
+      "time": 8,
+      "title": "以下哪個不是補充電池水所需的個人防護裝備?",
+      "multi_A": "面罩",
+      "multi_B": "安全帽",
+      "multi_C": "防護手套",
+      "multi_D": "圍裙",
+      "multi_ans": "B"
+    },
+    {
+      "time": 11,
+      "title": "如果發現電池損毀或其他不正常情況，應先採取以下哪項措施?",
+      "multi_A": "重啟叉式起重機",
+      "multi_B": "嘗試自行更換損毀零件",
+      "multi_C": "通知運輸組同事維修",
+      "multi_D": "停止使用及掛上警示",
+      "multi_ans": "D"
+    },
+    {
+      "time": 14,
+      "title": "用以補充電池水的液體是以下哪個物質?",
+      "multi_A": "礦泉水",
+      "multi_B": "蒸餾水",
+      "multi_C": "氫氧化鈉",
+      "multi_D": "硫酸",
+      "multi_ans": "B"
+    }
+  ]
+}
